@@ -89,22 +89,11 @@ To run the database validation and order duplication test suite:
    xcodebuild -project followorder.xcodeproj -scheme followorder -destination 'platform=macOS' CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO -only-testing:followorderTests test
    ```
 
-## Screen Recording Demonstration
+## Walkthrough Video
 
-A complete screen recording of the application is available, demonstrating:
-1. Application launch and the Home Dashboard layout.
-2. Navigating to the AR Menu and interacting with the 3D model selectors, ingredient panels, and placing an order directly from the 3D view.
-3. Accessing the Order Tracking dashboard and modifying adisyon queues.
-4. Unlocking Staff Mode via Face ID simulation to manage envanter stock levels.
-5. Viewing Sales Analytics metrics and performance charts.
+A complete screen recording of the application is embedded below, showing the initial launch screen, HomeView dashboard navigation, the full interactive AR Menu experience (placing items, 3D rotation, ingredient expansions, calorie and allergen reviews, and checkout), the OrderListView queue management, and the Analytics dashboard.
 
-You can record a similar demonstration on your local simulator by booting the app and running the following command in terminal:
-```bash
-xcrun simctl io booted recordVideo walkthrough_demo.mp4
-```
-Press `Ctrl + C` in the terminal to stop recording once you have finished demonstrating the features. The generated `walkthrough_demo.mp4` video can then be placed in your local project folder.
-
-[Walkthrough Demonstration Video Link](walkthrough_demo.mp4)
+![Walkthrough Demo](walkthrough_demo.mp4)
 
 ## Screenshots
 
