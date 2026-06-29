@@ -18,7 +18,11 @@ The video below is a complete, automated walkthrough of the application recorded
 
 
 
-https://github.com/user-attachments/assets/c1236910-61d4-4c37-a577-2582693e69db
+
+
+https://github.com/user-attachments/assets/a346604c-94cb-4f9c-8949-45a333886b0b
+
+
 
 
 
