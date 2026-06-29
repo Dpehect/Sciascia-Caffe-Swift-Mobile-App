@@ -16,7 +16,11 @@ For cafe staff, the app provides a full suite of operational tools: live order t
 
 The video below is a complete, automated walkthrough of the application recorded directly from the iOS Simulator. It covers every major screen in sequence: the Home Dashboard, Interactive AR Menu (product carousel, nutritional overlays, ingredient expansion, add-to-order), Order Tracking, Inventory Control, Customer Directory, and the Analytics Dashboard.
 
-https://github.com/Dpehect/Sciascia-Caffe-Swift-Mobile-App/raw/main/walkthrough_demo.mp4
+
+
+https://github.com/user-attachments/assets/c1236910-61d4-4c37-a577-2582693e69db
+
+
 
 > If the video does not play inline, [click here to download walkthrough_demo.mp4](walkthrough_demo.mp4).
 
